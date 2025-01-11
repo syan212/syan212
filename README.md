@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @syan212
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning CSS, HTML and Javascript
+- 🌱 I’m currently learning Python, CSS, HTML and Javascript
 - 💞️ I’m looking to collaborate on my fun projects
 - 📫 How to reach me:reach me
 - 😄 Pronouns: he/him
