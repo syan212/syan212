@@ -5,7 +5,7 @@ I'm syan212 and I do silly coding for fun. I'm ok at coding and would appreciate
 My email: syan235711@gmail.com
 ### Random Stuff
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=syan212)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=syan212&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=syan212" />
 </a>
