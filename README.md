@@ -7,8 +7,8 @@ My email: syan235711@gmail.com
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=syan212&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=syan212" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=syan212&theme=tokyonight&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=syan212&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=syan212&layout=compact&langs_count=8&card_width=350&theme=tokyonight&show_icons=true" />
 </a>
