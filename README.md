@@ -9,6 +9,6 @@ My email: syan235711@gmail.com
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=syan212&theme=tokyonight&show_icons=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=syan212&layout=compact&langs_count=8&card_width=350&theme=tokyonight&show_icons=true" />
 </a>
