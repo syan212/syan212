@@ -1,6 +1,6 @@
 # Hi!
 
-I'm syan212 and I do silly coding for fun. I'm ok at coding and would appreciate any help. I know Python, HTML, CSS and a bit of Javascipt.
+I'm syan212 and I do silly coding for fun. Some of the stuff here is for my friends. I'm ok at coding and would appreciate any help. I know Python, HTML, CSS, Javascript and a bit of Rust.
 
 My email: syan235711@gmail.com
 ### Random Stuff
