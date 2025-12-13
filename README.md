@@ -1,6 +1,6 @@
 # Hello there
 
-I'm SYan212 and I do silly coding for fun. Some of the stuff here is for my friends. I'm Ok at coding and would appreciate any help. I know Python, HTML, CSS, Javascript and a bit of Rust.
+I'm SYan212 and I do silly coding for fun. Some of the stuff here is for my friends. I'm ok at coding and would appreciate any help. I know Python, HTML, CSS, Javascript and a bit of Rust.
 
 My email: syan235711@gmail.com
 ### Github stats
@@ -10,7 +10,9 @@ My email: syan235711@gmail.com
 ![](https://raw.githubusercontent.com/syan212/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/syan212/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
-<p>Github stats generated from <a href='https://github.com/jstrieb/github-stats'>jstrieb/github-stats</a></p>
+Github stats generated from [jstrieb/github-stats](https://github.com/jstrieb/github-stats)
 
 ### Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=syan212&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-syan212.vercel.app/?username=syan212&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+
+Trophies genrated from [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) (self-hosted)
