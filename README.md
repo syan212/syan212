@@ -13,6 +13,6 @@ My email: syan235711@gmail.com
 Github stats generated from [jstrieb/github-stats](https://github.com/jstrieb/github-stats)
 
 ### Trophies
-[![trophy](https://github-profile-trophy-syan212.vercel.app/?username=syan212&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.syan212.com/?username=syan212&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 Trophies generated from [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) (self-hosted)
